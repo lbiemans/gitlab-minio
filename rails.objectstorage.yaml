@@ -1,0 +1,13 @@
+[default]
+# Setup endpoint: hostname of the Web App
+host_base = https://myminiourl:9000
+host_bucket = https://myminiourl:9000
+# Leave as default
+bucket_location = us-east-1
+use_https = False
+
+# Setup access keys
+# Access Key = Azure Storage Account name
+access_key = ACCESS_KEY
+# Secret Key = Azure Storage Account Key
+secret_key = SECRET_KEY
